@@ -4227,3 +4227,6 @@
 			}
 
 		}
+
+/* Oculta elementos */
+#three, #four, #footer section {display:none}
