@@ -4230,3 +4230,7 @@
 
 /* Oculta elementos */
 #three, #four, #footer section {display:none}
+
+/* Estilo banner */
+#banner b{color:white;font-weight: 900; !
+important}
